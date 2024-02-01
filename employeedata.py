@@ -1,4 +1,4 @@
-''' openyxl is a python libary that permits us to read and xl files '''
+''' openyxl is a python libary that permits us to read an xl files '''
 import openpyxl as xl
 
 wb =xl.load_workbook('employeesdatabase.xlsx')
