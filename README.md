@@ -1,1 +1,3 @@
-# Assignments
+# email address replacement 
+
+The Python code provided enables the replacement of old email addresses with new ones in an employee database stored in an Excel file. It utilizes the openpyxl library to load the Excel file, access the desired sheet, and iterate through the rows. By specifying the old and new email addresses, the code identifies cells containing the old email and updates them with the new email. Once all modifications are made, the updated database is saved as a CSV file. This code offers a convenient way to automate the process of updating email addresses in an employee database, saving time and effort.
